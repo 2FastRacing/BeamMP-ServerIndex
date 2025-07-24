@@ -48,6 +48,9 @@ Place the `.exe` or `serverIP.py` in the root of your BeamMP servers folder like
   
    <h1>BeamMP Server List</h1>
 
+
+## 📄 Example Output (servers.html)
+
 <h2>moddedServers</h2>
 <table>
 <tr><th>Server Name</th><th>IP</th><th>Port</th><th>AuthKey</th></tr>
